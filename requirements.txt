@@ -1,0 +1,13 @@
+tensorflow==1.14
+h5py
+Keras==2.0.8
+keras_vggface==0.6
+Keras-Applications
+numpy==1.18.0
+imutils==0.4.3
+opencv-python-headless 
+matplotlib
+scipy==1.4.1
+Pillow==6.2.0
+scikit_learn
+streamlit==0.62.0 
